@@ -27,5 +27,5 @@ An interactive Power BI dashboard developed to analyze retail sales performance,
 
 ## Business Impact
 This dashboard helps businesses monitor sales growth, identify profitable product categories, optimize shipping performance, and understand regional customer behavior, enabling more effective strategic and operational decisions.
-![Dashboard](dasboard1.png)
-![Dashboard](dahboard2.png)
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
