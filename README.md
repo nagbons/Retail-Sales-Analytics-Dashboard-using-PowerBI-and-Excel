@@ -1,6 +1,4 @@
 # Retail-Sales-Analytics-Dashboard-using-PowerBI-and-Excel
-
-## Retail Sales Dashboard
 An interactive Power BI dashboard developed to analyze retail sales performance, profitability, customer distribution, and shipping efficiency across multiple regions and product categories. The dashboard provides business insights through KPI tracking, trend analysis, and interactive visualizations to support data-driven decision-making.
 
 ## Key Features
